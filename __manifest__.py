@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Sale order line menu with Prepress Proof field',
-    'version': '1.0.1',
+    'name': 'Sale order line menu with Prepress Proof infos',
+    'version': '1.0.1.1',
     'author':'Soft-integration',
     'category': 'Sale/Prepress',
     'description': "",
