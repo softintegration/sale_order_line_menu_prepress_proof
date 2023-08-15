@@ -37,6 +37,7 @@
 				</xpath>
 				<xpath expr="//filter[@name='product']" position="after">
                     <filter string="Prepress Proof" name="prepress_proof" domain="[]" context="{'group_by':'prepress_proof_id'}"/>
+					<filter string="Product type" name="prepress_type" domain="[]" context="{'group_by': 'prepress_type'}"/>
 				</xpath>
 			</field>
 		</record>

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-21 20:18+0000\n"
-"PO-Revision-Date: 2022-12-21 20:18+0000\n"
+"POT-Creation-Date: 2023-08-15 12:51+0000\n"
+"PO-Revision-Date: 2023-08-15 12:51+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19,3 +19,18 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:sale_order_line_menu_prepress_proof.view_sales_order_line_filter_inherited
 msgid "Prepress Proof"
 msgstr "BAT"
+
+#. module: sale_order_line_menu_prepress_proof
+#: model_terms:ir.ui.view,arch_db:sale_order_line_menu_prepress_proof.view_sales_order_line_filter_inherited
+msgid "Product type"
+msgstr "Type d'article"
+
+#. module: sale_order_line_menu_prepress_proof
+#: model:ir.model,name:sale_order_line_menu_prepress_proof.model_sale_order_line
+msgid "Sales Order Line"
+msgstr "Ligne de bons de commande"
+
+#. module: sale_order_line_menu_prepress_proof
+#: model:ir.model.fields,field_description:sale_order_line_menu_prepress_proof.field_sale_order_line__prepress_type
+msgid "Type"
+msgstr "Type d'article"
